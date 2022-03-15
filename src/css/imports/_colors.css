@@ -28,12 +28,20 @@
   color: var(--grey-3);
 }
 
+.green-1 {
+  color: var(--green-1);
+}
+
 .grey-4 {
   color: var(--grey-4);
 }
 
 .black {
   color: var(--black);
+}
+
+.pink {
+  color: var(--pink);
 }
 
 .bg-primary {
@@ -46,6 +54,10 @@
 
 .bg-white {
   background-color: var(--white);
+}
+
+.bg-yellow {
+  background-color: var(--yellow);
 }
 
 .bg-off-white {
@@ -70,6 +82,10 @@
 
 .bg-black {
   background-color: var(--black);
+}
+
+.bg-orange {
+  background-color: var(--orange);
 }
 
 .bg-fix-primary {
